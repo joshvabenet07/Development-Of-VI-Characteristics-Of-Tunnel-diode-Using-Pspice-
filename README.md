@@ -1,0 +1,2 @@
+# Development-Of-VI-Characteristics-Of-Tunnel-diode-Using-Pspice-
+A tunnel diode is a special type of semiconductor diode that operates based on the quantum mechanical tunneling effect. It is made by heavily doping the p–n junction, which results in an extremely thin depletion layer. Because of this thin barrier, charge carriers (electrons) can “tunnel” through the junction even at very low forward voltages.
